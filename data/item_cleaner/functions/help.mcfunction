@@ -1,0 +1,1 @@
+tellraw @s [{"color":"dark_aqua","bold":"true","text":"Item Cleaner"},{"color":"gray","bold":"true","text":" >> "},{"color":"green","bold":"true","text":""}]

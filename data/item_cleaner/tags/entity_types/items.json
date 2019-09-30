@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:arrow",
+        "minecraft:item",
+        "minecraft:egg",
+        "minecraft:snowball",
+        "minecraft:fireball",
+        "minecraft:tnt",
+        "minecraft:experience_orb"
+    ]
+}

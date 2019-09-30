@@ -1,0 +1,1 @@
+tellraw @a [{"color":"dark_aqua","bold":"true","text":"Item Cleaner"},{"color":"red","bold":"true","text":" >> "},{"color":"red","bold":"true","text":"警告!距离下次实体清理还有"},{"color":"gold","bold":"true","score":{"objective":"nife_stats","name":"nife_ic_displaytime"}},{"text":"秒","color":"red"}]
